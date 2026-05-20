@@ -197,12 +197,18 @@ The dashboard page:
 
 ## Login Page
 - Responsive login UI inspired by the provided design
+  <img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/e1f0d4fd-9b90-4572-8043-108ec44b1ac0" />
+
 
 ## Register Page
 - User registration with Name, DOB, Email, Password
+<img width="1902" height="960" alt="image" src="https://github.com/user-attachments/assets/8604ac29-e301-4155-a8c2-fa6ef4bb899b" />
+
 
 ## Dashboard
 - Protected dashboard with styled table layout
+  <img width="1915" height="965" alt="image" src="https://github.com/user-attachments/assets/1eb129c5-d7ad-4dd5-b4c2-85c6fc65420a" />
+
 
 ---
 
